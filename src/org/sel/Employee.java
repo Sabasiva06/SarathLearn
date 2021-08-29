@@ -10,5 +10,6 @@ public class Employee {
 		Employee a = new Employee();
 		a.employeeId();
 		System.out.println("added feature in A");
+		System.out.println("added feature in B");
 	}
 }
